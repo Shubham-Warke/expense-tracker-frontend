@@ -1,5 +1,5 @@
 // Replace with your Render backend URL
-const API = 'https://expense-tracker-backend.onrender.com';
+const API = 'https://expense-tracker-backend-ux5q.onrender.com';
 
 async function loadExpenses() {
   try {
